@@ -13,6 +13,29 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      keyframes: {
+        rub: {
+          "0%": {
+            opacity: "1",
+            transform: "translateX(2px)",
+          },
+          "30%": {
+            opacity: "0.2",
+            transform: "translateX(100px)",
+          },
+          "60%": {
+            opacity: "0.2",
+            transform: "translateX(-100px)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "translateX(0)",
+          },
+        },
+      },
+      animation: {
+        "rub-effect": "rub 3s ease-out infinite",
+      },
     },
   },
   plugins: [],
