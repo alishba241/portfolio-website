@@ -23,8 +23,8 @@ function HomePage() {
       <div className='flex justify-center md:justify-end mt-[90px] mx-4 md:ml-[40%] '>
         <div className='h-[200px] w-[200px] md:h-[300px] md:w-[300px] shadow-cyan-300 rounded-full shadow-xl'>
           <Image
-            src='/img2.png' // Image path
-            alt='Alishba Naveed'
+            src='/images__29_-removebg-preview (1).png' 
+            alt='profile photo'
             className='rounded-full object-cover'
             width={300}
             height={300}

@@ -1,10 +1,9 @@
-import Link from "next/link";
 import React from "react";
-import Footer from "../footer/page";
 
 function AboutPage() {
   return (
     <div className="mt-[100px] mb-12 px-4">
+
       <h2 className="text-blue-500 font-bold text-2xl md:text-4xl text-sans text-center ">
         So Who I Am?
       </h2>
@@ -14,19 +13,33 @@ function AboutPage() {
           <p className="text-lg md:text-xl">Hi, I&#39;m Alishba Naveed!</p>
           <br />
           <p className="text-sm md:text-base leading-relaxed">
-            I&#39;m a passionate Frontend Developer and Graphic Designer with a background in Medical Studies. With over 1.5 years of experience in web development, I specialize in creating visually appealing and responsive websites. My expertise includes HTML, CSS, JavaScript, TypeScript, and Tailwind CSS, and I&#39;m currently exploring Next.js to further enhance my development skills.
+            I&#39;m a passionate Frontend Developer and Graphic Designer with a
+            background in Medical Studies. With over 1.5 years of experience in
+            web development, I specialize in creating visually appealing and
+            responsive websites. My expertise includes HTML, CSS, JavaScript,
+            TypeScript, and Tailwind CSS, and I&#39;m currently exploring
+            Next.js to further enhance my development skills.
           </p>
           <br />
           <p className="text-sm md:text-base leading-relaxed">
-            In addition to coding, I have a strong foundation in graphic design, which allows me to craft cohesive digital experiences. I&#39;m also certified as an Amazon Virtual Assistant, showcasing my versatility in the tech industry.
+            In addition to coding, I have a strong foundation in graphic design,
+            which allows me to craft cohesive digital experiences. I&#39;m also
+            certified as an Amazon Virtual Assistant, showcasing my versatility
+            in the tech industry.
           </p>
           <br />
           <p className="text-sm md:text-base leading-relaxed">
-            While balancing my studies as a first-year medical student, I&#39;m deeply interested in how technology and healthcare intersect, particularly with advancements in AI and Web3. I&#39;m currently pursuing a specialized course in Artificial Intelligence and Metaverse at Governor House to explore new horizons in this field.
+            While balancing my studies as a first-year medical student, I&#39;m
+            deeply interested in how technology and healthcare intersect,
+            particularly with advancements in AI and Web3. I&#39;m currently
+            pursuing a specialized course in Artificial Intelligence and
+            Metaverse at Governor House to explore new horizons in this field.
           </p>
           <br />
           <p className="text-sm md:text-base leading-relaxed">
-            I&#39;m always excited to take on new challenges and collaborate with clients to bring their ideas to life through innovative design and development.
+            I&#39;m always excited to take on new challenges and collaborate
+            with clients to bring their ideas to life through innovative design
+            and development.
           </p>
           <br />
           <p className="text-sm md:text-base leading-relaxed">
@@ -45,7 +58,10 @@ function AboutPage() {
               Responsive Website Design
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              I will design fully responsive websites that look great on any device, whether its a mobile phone, tablet, or laptop. Ensuring your site is visually appealing and functional across all screen sizes.
+              I will design fully responsive websites that look great on any
+              device, whether its a mobile phone, tablet, or laptop. Ensuring
+              your site is visually appealing and functional across all screen
+              sizes.
             </p>
           </div>
 
@@ -54,7 +70,9 @@ function AboutPage() {
               Personal Portfolio Website Development
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              Showcase your work professionally with a customized portfolio website designed to highlight your skills and projects effectively.
+              Showcase your work professionally with a customized portfolio
+              website designed to highlight your skills and projects
+              effectively.
             </p>
           </div>
 
@@ -63,7 +81,9 @@ function AboutPage() {
               One-Page Websites
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              I build simple, stylish one-page websites that deliver all the essential information in a clean and engaging format. Ideal for small businesses or personal profiles.
+              I build simple, stylish one-page websites that deliver all the
+              essential information in a clean and engaging format. Ideal for
+              small businesses or personal profiles.
             </p>
           </div>
 
@@ -72,7 +92,8 @@ function AboutPage() {
               Next.js Website Development
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              I develop fast, SEO-friendly websites using Next.js, providing high performance and smooth navigation with dynamic routing.
+              I develop fast, SEO-friendly websites using Next.js, providing
+              high performance and smooth navigation with dynamic routing.
             </p>
           </div>
 
@@ -81,7 +102,9 @@ function AboutPage() {
               Frontend Bug Fixing and Improvements
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              I resolve frontend issues like layout problems, responsiveness errors, and browser compatibility bugs to ensure your website works flawlessly.
+              I resolve frontend issues like layout problems, responsiveness
+              errors, and browser compatibility bugs to ensure your website
+              works flawlessly.
             </p>
           </div>
 
@@ -90,7 +113,9 @@ function AboutPage() {
               Website Maintenance & Updates
             </p>
             <p className="mt-4 text-white group-hover:text-black duration-1000">
-              I offer regular website updates, including content changes, security patches, and the addition of new features, ensuring your site remains up-to-date and secure.
+              I offer regular website updates, including content changes,
+              security patches, and the addition of new features, ensuring your
+              site remains up-to-date and secure.
             </p>
           </div>
         </div>
